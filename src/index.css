@@ -1,13 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500&display=swap');
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.app {
+  width: 37.5rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 1.05;
+  text-align: left;
+}
+
+h2 {
+  font-size: 3.5rem;
+  line-height: 1.05;
+  text-align: center;
+}
+
+h3 {
+  margin: 0.625rem;
+}
+
+p {
+  font-size: 1.125rem;
+  line-height: 1.2;
+}
+
+.question-title {
+  width: 37.5rem;
+  height: 12.125rem;
+  background-color: peru; 
+  border-radius: 0.313rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.spacer{
+  height: 50px;
+}
+
+.questions-container {
+  margin: 1rem 0 1.438rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex: 1 1 30%; /*grow | shrink | basis */
+}
+
+.question-block {
+  width: 17.875rem;
+  height: auto;
+  background-color: white;
+  border-radius: 0.313rem;
+  box-shadow: rgba(0, 0, 0, 0.07) 0 0 0 1px;
+  text-align: center;
+  margin-bottom: 15px;
+  overflow: hidden;
+  border: none;
+  padding: 0;
+}
+
+.question-block:hover {
+  filter: brightness(85%);
+}
+
+.image {
+  max-width:100%;
+  max-height:200px;
+}
+
+.question-block p {
+  font-size: 0.688rem;
+  font-style: italic;
+}
+
+.question-block a {
+  color: rgb(153, 153, 153);
+  text-decoration: none;
+}
+
+.answer-block {
+  width: 37.5rem;
+  background-color: rgb(255,61,158);
+  border-radius: .313rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(255,255,255);
+}
+
+.answer-block img {
+  width: 90%;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+    display: flex;
+    max-width: 480px;
+    justify-content: center;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    display: flex;
+    max-width: 480px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  p {
+    background-color: lightblue;
+    display: flex;
+    max-width: 480px;
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    background-color: pink;
+    display: flex;
+    max-width: 380px;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .subtitle {
+    background-color: orange;
+    display: flex;
+    max-width: 380px;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .question-title {
+    max-width: 380px;
+    width: 10.5rem;
+    height: 10.125rem;
+    background-color: peru; 
+    border-radius: 0.313rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .questions-container {
+    margin: 0 auto;
+    max-width: 380px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .questions-block {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .quip {
+    align-items: baseline;
+  }
 }
