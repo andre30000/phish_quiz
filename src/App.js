@@ -19,7 +19,9 @@ const App = () => {
   const fetchData = async () =>
   {
     try {
-      const response = await fetch('http://localhost:8000/quiz') //fetches the json-server, writes it to response
+      // const response = await fetch('http://localhost:8000/quiz') //FOR LOCALHOSTING - replaced with below for live link.
+      const response = await fetch('https://phish-quiz-server.onrender.com/quiz') //fetches the json-server, writes it to response
+
       const json = await response.json() //makes a constant of the json
       setQuiz(json) //overrides the false default setting to whatever the json returns
     } catch (error) {
