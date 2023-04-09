@@ -2,7 +2,7 @@
   "quiz": {
       "quizId": "phish_quiz",
       "title": "What Phish song are you?",
-      "subtitle": "Are you 'love and light' dad rock or Heady Type 2?",
+      "subtitle": "Are you vibrating with love and light or Type 2?",
       "content": [
           {
               "id": 0,
@@ -23,7 +23,7 @@
                   {
                       "text": "Tarp",
                       "ques": "Me and Greg layin down the tarps - don't get in our space",
-                      "score": 3,
+                      "score": -200,
                       "quip": "the guy3"
                   },
                {
@@ -47,19 +47,19 @@
                   {
                       "text": "one",
                       "ques": "Once",
-                      "score": 2,
+                      "score": 3,
                       "quip": "it didn't work out, we're still friends"
                   },
                   {
                       "text": "nevermarried",
                       "ques": "Never married",
-                      "score": 3,
+                      "score": 2,
                       "quip": "i'm undateable - or 17"
                   },
                   {
                       "text": "three",
                       "ques": "Three +",
-                      "score": 4,
+                      "score": 900,
                       "quip": "its not me, theyre all bitches"
                   }
               ]
@@ -77,13 +77,13 @@
                   {
                       "text": "bigcypress",
                       "ques": "Big Cypress set 3",
-                      "score": 2,
+                      "score": 3,
                       "quip": "12 hours LETS GOO"
                   },
                   {
                       "text": "social_acceptance",
                       "ques": "A normal song that fits the vibe of the moment",
-                      "score": 3,
+                      "score": 2,
                       "quip": "your girlfriend likes MGMT"
                   },
                   {
@@ -101,25 +101,25 @@
                   {
                       "text": "samsmith",
                       "ques": "Sam Smith brown ale",
-                      "score" : 1,
+                      "score" : 4,
                       "quip": "you gotta know"
                   },
                   {
                       "text": "ipa",
                       "ques": "Headiest IPA that you can't find in this county",
-                      "score": 2,
+                      "score": 3,
                       "quip": "its from colorado bruh"
                   },
                   {
                       "text": "cheapbeer",
                       "ques": "Whatever cheap beer your big titty friend has in her patchwork purse",
-                      "score": 3,
+                      "score": 1,
                       "quip": "you guys sleep together sometimes"
                   },
                   {
                       "text": "lotbeer",
                       "ques": "I'm buying coldies on lot with my burritos",
-                      "score": 4,
+                      "score": 2,
                       "quip": "1 for 3, 2 for 5"
                   }
               ]
@@ -135,21 +135,21 @@
                       "quip": "never miss the music"
                   },
                   {
-                      "text": "heavythings",
-                      "ques": "Heavy Things",
-                      "score": 2,
+                      "text": "horn",
+                      "ques": "Horn",
+                      "score": 4,
                       "quip": "no jammy, no watchy"
                   },
                   {
                       "text": "lawn",
                       "ques": "Pissing in the lawn when no one is looking",
-                      "score": 3,
+                      "score": -10,
                       "quip": "can't lose this spot pham"
                   },
                   {
                       "text": "hold",
                       "ques": "Before and after the show only",
-                      "score": 4,
+                      "score": 3,
                       "quip": "PURE BLISS"
                   }
               ]
@@ -167,13 +167,13 @@
                   {
                       "text": "bittersweetmotel",
                       "ques": "Musical appreciation?",
-                      "score": 2,
+                      "score": 3,
                       "quip": "harmonica"
                   },
                   {
                       "text": "quoteunquoteyes",
                       "ques": "Yeah I'll go sober (just beer and weed)",
-                      "score": 3,
+                      "score": 2,
                       "quip": "the other guy3"
                   },
                   {
@@ -191,13 +191,13 @@
                   {
                       "text": "zero",
                       "ques": "Zero",
-                      "score" : 1,
+                      "score" : 2,
                       "quip": "those shows are mid dude"
                   },
                   {
                       "text": "one",
                       "ques": "One",
-                      "score": 2,
+                      "score": 4,
                       "quip": "amazing"
                   },
                   {
@@ -209,7 +209,7 @@
                   {
                       "text": "three",
                       "ques": "Three +",
-                      "score": 4,
+                      "score": 500,
                       "quip": "yeah i'm rich"
                   }
               ]
@@ -227,7 +227,7 @@
                   {
                       "text": "Harpua",
                       "ques": "Harpua",
-                      "score": 2,
+                      "score": 4,
                       "quip": "fat sweaty bulldog"
                   },
                   {
@@ -239,7 +239,7 @@
                   {
                       "text": "Molly",
                       "ques": "Molly",
-                      "score": 4,
+                      "score": 700,
                       "quip": "my dog ate all the grilled cheese sorry okay we'll get out of here"
                   }
               ]
@@ -247,363 +247,165 @@
       ],
       "answers": [
               {
-              "combination": ["New York", "Pizza", "Traditional"],
-              "text": "Blue Cheese",
+              "combination": -100,
+              "text": "Gin and Juice (limewire) - this is [0]",
               "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&w=400&h=400&fit=fillmax",
-              "alt": "blue cheese"
+              "alt": "gin and juice"
               },
               {
-              "combination": ["Austin", "Pasta", "Modern"],
-              "text": "Cheddar",
+              "combination": 500,
+              "text": "Mexican Cousin this is [1]",
               "image": "https://images.unsplash.com/photo-1618164436241-4473940d1f5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
-              "alt":  "cheddar cheese"
+              "alt":  "maxican cousin"
               },
               {
-              "combination": ["Portland", "Sandwich", "Mountains"],
-              "text": "Feta",
+              "combination": 900,
+              "text": "Soul Planet this is [2]",
               "image": "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-              "alt":  "feta"
+              "alt":  "soul planet"
               },
               {
-              "combination": ["New Orleans", "Hamburger", "House"],
-              "text": "Halloumi",
+              "combination": 700,
+              "text": "Makisupa Policeman this is [3]",
               "image": "https://images.unsplash.com/photo-1598167912234-02576c0c5f16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
-              "alt":  "halloumi"
+              "alt":  "makisupa"
               },
               {
-              "combination": ["New York", "Pizza", "Modern"],
-              "text": "Goya",
+              "combination": 11,
+              "text": "Boucing Around the Room this is [4]",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queso_Goya.jpg",
-              "alt":  "Goya"
+              "alt":  "bouncing"
               },
               {
-              "combination": ["New York", "Pizza", "Mountains"],
-              "text": "Red Hawk",
+              "combination": 12,
+              "text": "Farmhouse",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg",
-              "alt":  "Red Hawk"
+              "alt":  "farmhouse"
               },
               {
-              "combination": ["New York", "Pizza", "House"],
-              "text": "Pepper Jack",
+              "combination": 13,
+              "text": "Sparkle",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pepperjack_Cheese.jpg",
-              "alt":  "Pepper Jack"
+              "alt":  "sparkle"
               },
               {
-              "combination": ["New York", "Pasta", "Traditional"],
-              "text": "Nacho cheese",
+              "combination": 14,
+              "text": "Possum",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nachos_supreme.jpg/270px-Nachos_supreme.jpg",
-              "alt":  "Nacho cheese"
+              "alt":  "possum"
               },
               {
-              "combination": ["New York", "Pasta", "Modern"],
-              "text": "Muenster",
+              "combination": 15,
+              "text": "Water in the Sky",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Block_of_Muenster_cheese.jpg",
-              "alt":  "Muenster"
+              "alt":  "waterin the sky"
               },
               {
-              "combination": ["New York", "Pasta", "Mountains"],
-              "text": "Humboldt Fog",
+              "combination": 16,
+              "text": "Punch You in the Eye",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheese_30_bg_051906.jpg",
-              "alt":  "Humboldt Fog"
+              "alt":  "PYITE"
               },
               {
-              "combination": ["New York", "Pasta", "House"],
-              "text": "Brick",
+              "combination": 17,
+              "text": "Twist",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brickcheese.jpg",
-              "alt":  "Brick"
+              "alt":  "twist"
               },
               {
-              "combination": ["New York", "Sandwich", "Traditional"],
-              "text": "Oaxaca",
+              "combination": 18,
+              "text": "Tweezer",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png",
-              "alt":  "Oaxaca"
+              "alt":  "tweezer"
               },
               {
-              "combination": ["New York", "Sandwich", "Modern"],
-              "text": "Criollo",
+              "combination": 19,
+              "text": "Weekapaug Groove",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fromage_criollo._%2815228806466%29.jpg",
-              "alt":  "Criollo"
+              "alt":  "weekapaug"
               },
               {
-              "combination": ["New York", "Sandwich", "Mountains"],
-              "text": "Asadero",
+              "combination": 20,
+              "text": "Divided Sky",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tlayuda_con_Quesillo%2C_Oaxaca.jpg",
-              "alt":  "Asadero"
+              "alt":  "divided"
               },
               {
-              "combination": ["New York", "Sandwich", "House"],
-              "text": "Añejo",
+              "combination": 21,
+              "text": "Wolfman's Brother",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Queso_a%C3%B1ejo.JPG/270px-Queso_a%C3%B1ejo.JPG",
-              "alt":  "Añejo"
+              "alt":  "wolfman"
               },
               {
-              "combination": ["New York", "Hamburger", "Traditional"],
-              "text": "Adobera",
+              "combination": 22,
+              "text": "Golgi Apparatus",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Adobera.png/270px-Adobera.png",
-              "alt":  "Adobera"
+              "alt":  "golgi"
               },
               {
-              "combination": ["New York", "Hamburger", "Modern"],
-              "text": "Quesillo",
+              "combination": 23,
+              "text": "Moma Dance",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png/270px-Quesillo_de_Oaxaca.png",
-              "alt":  "Quesillo"
+              "alt":  "moma"
               },
               {
-              "combination": ["New York", "Hamburger", "Mountains"],
-              "text": "Cuajada",
+              "combination": 24,
+              "text": "Ghost",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuajada.jpg",
-              "alt":  "Cuajada"
+              "alt":  "ghost"
               },
               {
-              "combination": ["New York", "Hamburger", "House"],
-              "text": "Turrialba",
+              "combination": 25,
+              "text": "Harpua",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Queso_Turrialba.jpg",
-              "alt":  "Turrialba"
+              "alt":  "harpua"
               },
       
               {
-              "combination": ["Austin", "Pizza", "Traditional"],
-              "text": "Palmito",
+              "combination": 26,
+              "text": "NICU",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palmito_cheese.jpg",
-              "alt":  "Palmito"
+              "alt":  "nicu"
               },
               {
-              "combination": ["Austin", "Pizza", "Modern"],
-              "text": "Pikauba",
+              "combination": 27,
+              "text": "You Enjoy Myself",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pikauba_%28fromage%29_03.jpg/270px-Pikauba_%28fromage%29_03.jpg",
-              "alt":  "Pikauba"
+              "alt":  "yem"
               },
               {
-              "combination": ["Austin", "Pizza", "Mountains"],
-              "text": "Hellim",
+              "combination": 28,
+              "text": "Reba",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Halloumislicefresh.jpg/270px-Halloumislicefresh.jpg",
-              "alt":  "Hellim"
+              "alt":  "reba"
               },
               {
-              "combination": ["Austin", "Pizza", "House"],
-              "text": "Beyaz peynir",
+              "combination": 29,
+              "text": "Carini",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/White_cheese_from_Turkey.jpg/270px-White_cheese_from_Turkey.jpg",
-              "alt":  "Beyaz peynir"
+              "alt":  "carini"
               },
               {
-              "combination": ["Austin", "Pasta", "Traditional"],
-              "text": "Nabulsi",
+              "combination": 30,
+              "text": "Fluffhead",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%D8%AC%D8%A8%D9%86%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
-              "alt":  "Nabulsi"
+              "alt":  "Fluff"
               },
               {
-              "combination": ["Austin", "Pasta", "Mountains"],
-              "text": "Jameed",
+              "combination": 31,
+              "text": "Dinner and a Movie",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jameed.JPG/270px-Jameed.JPG",
-              "alt":  "Jameed"
+              "alt":  "DAAM"
               },
               {
-              "combination": ["Austin", "Pasta", "House"],
-              "text": "Labneh",
+              "combination": 32,
+              "text": "Tela",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Labneh01.jpg",
-              "alt":  "Labneh"
+              "alt":  "Tela"
               },
               {
-              "combination": ["Austin", "Sandwich", "Traditional"],
-              "text": "Pot Cheese",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kupe_paniri.jpg",
-              "alt":  "Pot Cheese"
-              },
-              {
-              "combination": ["Austin", "Sandwich", "Modern"],
-              "text": "Rumi",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flickr_-_Tour_d%27Afrique_-_ArabicCheese.jpg",
-              "alt":  "Rumi"
-              },
-              {
-              "combination": ["Austin", "Sandwich", "Mountains"],
-              "text": "Mish",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mesh.jpg/270px-Mesh.jpg",
-              "alt":  "Mish"
-              },
-              {
-              "combination": ["Austin", "Sandwich", "House"],
-              "text": "Domiati",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Domiati_cheese.jpg/270px-Domiati_cheese.jpg",
-              "alt":  "Domiati"
-              },
-              {
-              "combination": ["Austin", "Hamburger", "Traditional"],
-              "text": "Bryndza",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bryndza.jpg/270px-Bryndza.jpg",
-              "alt":  "Bryndza"
-              },
-              {
-              "combination": ["Austin", "Hamburger", "Modern"],
-              "text": "Grevé",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wedge_of_Swedish_Grev%C3%A9_cheese.jpg/270px-Wedge_of_Swedish_Grev%C3%A9_cheese.jpg",
-              "alt":  "Grevé"
-              },
-              {
-              "combination": ["Austin", "Hamburger", "Mountains"],
-              "text": "Parenica",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Parenica.jpg/270px-Parenica.jpg",
-              "alt":  "Parenica"
-              },
-              {
-              "combination": ["Austin", "Hamburger", "House"],
-              "text": "Korbáčiky",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_%28Slovakia%29.jpg/270px-%C3%9Aden%C3%BD_korb%C3%A1%C4%8Dik_%28Slovakia%29.jpg",
-              "alt":  "Korbáčiky"
-              },
-              {
-              "combination": ["Portland", "Pizza", "Mountains"],
-              "text": "Liptauer",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Liptauer.jpg/270px-Liptauer.jpg",
-              "alt":  "Liptauer"
-              },
-              {
-              "combination": ["Portland", "Pizza", "House"],
-              "text": "Tvorog",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tvorog.jpg/270px-Tvorog.jpg",
-              "alt":  "Tvorog"
-              },
-              {
-              "combination": ["Portland", "Pasta", "Traditional"],
-              "text": "Circassian",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%8B%D1%80.jpg",
-              "alt":  "Circassian"
-              },
-              {
-              "combination": ["Portland", "Pasta", "Modern"],
-              "text": "Cașcaval",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Penteleu.jpg",
-              "alt":  "Cașcaval"
-              },
-              {
-              "combination": ["Portland", "Pasta", "Mountains"],
-              "text": "Telemea",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Telemea.jpg",
-              "alt":  "Telemea"
-              },
-              {
-              "combination": ["Portland", "Pasta", "House"],
-              "text": "Requeijão",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/RequeijaoCremoso.jpg",
-              "alt":  "Requeijão"
-              },
-              {
-              "combination": ["Portland", "Sandwich", "Traditional"],
-              "text": "Norvegia",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Norvegia_Vellagret.JPG",
-              "alt":  "Norvegia"
-              },
-              {
-              "combination": ["Portland", "Sandwich", "Modern"],
-              "text": "Jarlsberg",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jarlsberg_cheese.jpg",
-              "alt":  "Jarlsberg"
-              },
-              {
-              "combination": ["Portland", "Sandwich", "House"],
-              "text": "Gamalost",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gamalost-NorwegianOldCheese.jpg",
-              "alt":  "Gamalost"
-              },
-              {
-              "combination": ["Portland", "Hamburger", "Traditional"],
-              "text": "Brunost",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brunost.jpg",
-              "alt":  "Brunost"
-              },
-              {
-              "combination": ["Portland", "Hamburger", "Modern"],
-              "text": "Pannónia",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emmental_015.jpg",
-              "alt":  "Pannónia"
-              },
-              {
-              "combination": ["Portland", "Hamburger", "Mountains"],
-              "text": "Orda",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Urd%C4%83.png",
-              "alt":  "Orda"
-              },
-              {
-              "combination": ["Portland", "Hamburger", "House"],
-              "text": "Trappista",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TrappistenKaeseOffen_1.jpg",
-              "alt":  "Trappista"
-              },
-              {
-              "combination": ["New Orleans", "Pizza", "Mountains"],
-              "text": "Myzithra",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Homemade_Mizithra.jpg/2560px-Homemade_Mizithra.jpg",
-              "alt":  "Myzithra"
-              },
-              {
-              "combination": ["New Orleans", "Pizza", "House"],
-              "text": "Metsovone",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%CE%9C%CE%B5%CF%84%CF%83%CE%BF%CE%B2%CF%8C%CE%BD%CE%B5_6304.jpg",
-              "alt":  "Metsovone"
-              },
-              {
-              "combination": ["New Orleans", "Pasta", "Traditional"],
-              "text": "Manouri",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Manouri.jpg",
-              "alt":  "Manouri"
-              },
-              {
-              "combination": ["New Orleans", "Pasta", "Modern"],
-              "text": "Aura",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aura_juusto.jpg",
-              "alt":  "Aura"
-              },
-              {
-              "combination": ["New Orleans", "Pasta", "Mountains"],
-              "text": "Saga",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Soft_and_creamy_Saga_cheese.jpg",
-              "alt":  "Saga"
-              },
-              {
-              "combination": ["New Orleans", "Pasta", "House"],
-              "text": "Danish Blue",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Danish_Blue_cheese.jpg",
-              "alt":  "Danish Blue"
-              },
-              {
-              "combination": ["New Orleans", "Sandwich", "Traditional"],
-              "text": "Esrom",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Esrom.jpg",
-              "alt":  "Esrom"
-              },
-              {
-              "combination": ["New Orleans", "Sandwich", "Modern"],
-              "text": "Staazer",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Staazer_Heublumenk%C3%A4se_SB_01_WikiCheese_Lokal_K.jpg",
-              "alt":  "Staazer"
-              },
-              {
-              "combination": ["New Orleans", "Sandwich", "Mountains"],
-              "text": "Kashkaval",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaschkawal_Kashkaval_%D0%BA%D0%B0%D1%88%D0%BA%D0%B0%D0%B2%D0%B0%D0%BB_Balkank%C3%A4se_Sofia_IMG_7649.JPG",
-              "alt":  "Kashkaval"
-              },
-              {
-              "combination": ["New Orleans", "Sandwich", "House"],
-              "text": "Sura Kees",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sura-Kees.JPG/1280px-Sura-Kees.JPG",
-              "alt":  "Sura Kees"
-              },
-              {
-              "combination": ["New Orleans", "Hamburger", "Traditional"],
-              "text": "Paneer",
-              "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-              "alt":  "Paneer"
-              },
-              {
-              "combination": ["New Orleans", "Hamburger", "Modern"],
-              "text": "Camembert",
-              "image": "https://images.unsplash.com/photo-1634487359989-3e90c9432133?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80",
-              "alt":  "Camembert"
-              },
-              {
-              "combination": ["New Orleans", "Hamburger", "Mountains"],
-              "text": "Sainte-Colome",
+              "combination": 3,
+              "text": "outlier",
               "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",
               "alt":  "sanite colome"
               }
